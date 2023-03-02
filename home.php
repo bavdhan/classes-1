@@ -8,7 +8,6 @@
  } 
  mysqli_select_db($conn,'login');
 ?>
-
 <!DOCTYPE html>
 <html>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
